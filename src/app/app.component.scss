@@ -1,0 +1,15 @@
+.banner-container {
+  position:relative;
+  height:500px;
+  overflow:hidden;
+}
+.banner-container > .banner {
+  position:absolute;
+  left:0;
+  top:0;
+  font-size:200px;
+  line-height:500px;
+  font-weight:bold;
+  text-align:center;
+  width:100%;
+}
